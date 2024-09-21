@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwPn5L7CAbM=",
+  "success": true,
+  "projectFilePath": "O:\\VP\\Peldaprogramok_GitHubon\\WPF-XAML\\WPF_XAML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csaba\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.34\\microsoft.windows.sdk.net.ref.10.0.22621.34.nupkg.sha512"
+  ],
+  "logs": []
+}

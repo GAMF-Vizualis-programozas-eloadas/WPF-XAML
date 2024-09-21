@@ -3,7 +3,8 @@
 namespace WPF_XAML
 {
 	/// <summary>
-	/// A felületet XAML-ben készítettük. A C# állomány csak a mögöttes kódot,
+	/// A felületet XAML-ben készítettük. A C# állomány csak
+  /// a mögöttes kódot,
 	/// azaz az eseménykezelőket tartalmazza.
 	/// </summary>
 	public partial class wndAblak : Window
